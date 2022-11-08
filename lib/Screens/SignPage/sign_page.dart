@@ -7,7 +7,6 @@ import 'package:logindesign/Config/constants.dart';
 import 'package:logindesign/Config/form_error.dart';
 import 'package:logindesign/Widgets/social_links.dart';
 import 'package:sizer/sizer.dart';
-
 import '../../Config/validation_mixin.dart';
 import '../WelcomePage/welcome_page.dart';
 
